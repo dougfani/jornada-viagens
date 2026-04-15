@@ -1,5 +1,5 @@
 .offers-cards {
-    margin-bottom: 104px;
+    margin-bottom: 88px;
 }
 
 .offers-cards {
@@ -21,10 +21,6 @@
 }
 
 .offers-cards .card header {
-    display: block;
-    background-color: transparent;
-    position: static;
-    padding: 0;
     margin-bottom: 24px;
 }
 
@@ -96,6 +92,6 @@
 @media screen and (min-width: 1920px) {
     .offers-cards {
         width: 1250px;
-        margin: 0 auto;
+        margin: 0 auto 104px;
     }
 }
