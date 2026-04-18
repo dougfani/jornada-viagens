@@ -61,4 +61,19 @@
         width: 790px;
         margin: 0;
     }
+
+    .payments .content-container .image-gallery .image.first {
+        background: url(../img/gallery1-desk.jpg) no-repeat;
+        background-size: cover;
+    }
+
+    .payments .content-container .image-gallery .image.second {
+        background: url(../img/gallery2-desk.jpg) no-repeat;
+        background-size: cover;
+    }
+
+    .payments .content-container .image-gallery .image.third {
+        background: url(../img/gallery3-desk.jpg) no-repeat;
+        background-size: cover;
+    }
 }
