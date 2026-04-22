@@ -55,7 +55,7 @@ nav {
 }
 
 .list-links li a.packages_clicked {
-    text-decoration: underlinegi;
+    text-decoration: underline;
 }
 
 @media screen and (min-width: 768px) {
