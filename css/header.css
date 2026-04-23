@@ -54,7 +54,7 @@ nav {
     font-size: 24px;
 }
 
-.list-links li a.packages_clicked {
+.list-links li a.active {
     text-decoration: underline;
 }
 
